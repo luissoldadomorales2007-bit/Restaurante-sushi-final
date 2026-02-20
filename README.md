@@ -1,7 +1,7 @@
 # 🍣 Página Web de Sushi
 # Proyecto realizado con HTML y CSS que simula la web de un restaurante de sushi. El usuario puede ver el menú, consultar ofertas, conocer la ubicación del local, acceder a la información de contacto y conocernos.
 
-# 📌 Contenido del sitio
+# 📌 Contenido de la página
 # Menú: platos principales.
 
 # Ofertas: promociones y descuentos.
